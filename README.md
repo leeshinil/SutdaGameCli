@@ -1,1 +1,1 @@
-# JavaProjectSutdaCli
+# JavaSutdaCli
